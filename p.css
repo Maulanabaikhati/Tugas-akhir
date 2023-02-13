@@ -1,0 +1,42 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: red;
+}
+a{
+    color: white
+    ;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+.hello{
+    color: black;
+    background-color: aqua;
+    text-decoration: solid;
+    justify-items: first baseline;
+}
+
+.hay{
+    color: black;
+    background-color: aqua;
+    text-decoration: overline;
+    justify-items: first baseline;
+}
+
+a{
+    color: beige;
+    inline-size: auto;
+    justify-content: left;
+    text-decoration: line-through;
+    transition: 0,5s;
+}
+a:hover{
+    color: rgb(52, 9, 243);
+    inline-size: auto;
+    justify-content: left;
+    text-decoration: line-through;
+    transition: 0,5s;
+}
